@@ -2,7 +2,7 @@
 
 ![alt text](src/Coverpic.png)
 
-[Check the app](https://fathomless-reef-78456.herokuapp.com/)
+[Check the app](https://mighty-wave-22170.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
