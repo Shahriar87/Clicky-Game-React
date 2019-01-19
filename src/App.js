@@ -62,14 +62,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">React Clicky Game!</h1>
-        </header>
-        <h3 className="App-intro">
-          <strong>Click an image to begin! If you click same image twice, you lose</strong>
-          <p className="score"><strong>Score: {this.state.score} | TopScore: {this.state.topScore}</strong></p>
-          <p className="message"><strong>{this.state.message}</strong></p>
-        </h3>
+        <NavTabs
+          score={this.state.score}
+          topScore={this.state.topScore}
+          message={this.state.message}
+        />
         <Wrapper
           shakeWrapper={this.state.shakeit}
           pictures=
@@ -77,7 +74,7 @@ class App extends Component {
             <ImageCard
               clickPicture={this.clickPicture}
               id={pic.id}
-              key={pic.id} 
+              key={pic.id}
               name={pic.name}
               image={pic.image}
             />
