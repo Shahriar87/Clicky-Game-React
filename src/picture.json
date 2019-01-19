@@ -1,86 +1,62 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "name": "Metallica",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81-HYwl4syL._SX355_.jpg"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "name": "Megadeth",
+      "image": "http://www.metallipromo.com/images/megadeth/19860322.jpg"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "name": "Iron Maiden",
+      "image": "https://media.udiscovermusic.com/img/artist-thumbnails-homepage/iron-maiden.jpg"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "name": "Exodus",
+      "image": "https://img.discogs.com/tVVMKLMfeZDGAXNDGMXezia2MtA=/fit-in/500x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5259050-1388936517-5177.jpeg.jpg"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "name": "Death",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81J4UlYpWaL._SY355_.jpg"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "occupation": "Student",
-      "location": "Bluffington"
+      "name": "Slayer",
+      "image": "http://static1.squarespace.com/static/55ccf522e4b0fc9c2b651a5d/55ce6688e4b0a937261c41f5/5a67564f9140b7172818bb6b/1516721933022/Slayer_SquareBanner_VIP_2.jpg?format=1500w"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "name": "Testament",
+      "image": "https://www.rhino.com/sites/rhino.com/files/styles/article_image/public/testament.png?itok=nZtNInKA"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-      "occupation": "Ladies Man",
-      "location": "Aron City"
+      "name": "Dream Theater",
+      "image": "https://storage0.dms.mpinteractiv.ro/media/1/1/4728/17691643/1/dream-theater-poster.jpg?width=640"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-      "occupation": "Adventurer",
-      "location": "California"
+      "name": "Sepultura",
+      "image": "https://i.pinimg.com/originals/a4/f2/ec/a4f2ec5d99d995afb0a3d864666beb57.jpg"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-      "occupation": "Cashier",
-      "location": "O-Town, California"
+      "name": "Pantera",
+      "image": "https://d9nvuahg4xykp.cloudfront.net/-685636988993603546/-2121038465585725868_thumbnail.jpg"
     },
     {
       "id": 11,
-      "name": "Captain Planet",
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-      "occupation": "Superhero",
-      "location": "Earth"
+      "name": "Anthrax",
+      "image": "https://i.pinimg.com/originals/ca/13/9f/ca139f11669f8a7867a454f4617a0d7d.jpg"
     },
     {
       "id": 12,
-      "name": "Ickis",
-      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-      "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "name": "Nile",
+      "image": "http://www.trebuchet-magazine.com/wp-content/uploads/2014/07/nile.jpg"
     }
   ]

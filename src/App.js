@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ImageCard from "./components/ImageCard";
 import NavTabs from "./components/NavTabs";
-import ScoreTabs from "./components/ScoreTabs";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import picture from "./picture.json";
@@ -50,7 +48,7 @@ class App extends Component {
   };
 
   // ----- Algorithm for picture shuffle
-  shuffleArray = picturesArray => {
+  shufflePic = picturesArray => {
     for (let i = picturesArray.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [picturesArray[i], picturesArray[j]] = [picturesArray[j], picturesArray[i]];
